@@ -1,0 +1,38 @@
+{
+  "ProjectName": "__TAB-Graph",
+  "ProjectGuid": "55035730-eb54-4230-bad7-c06d31cf12cc",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TABGraph",
+  "DisplayName": "__TAB-Graph",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{6358d298-2086-4225-b216-a5a2624bf059}",
+  "WP8ProductID": "{50eca9f2-b074-4474-9ed2-ab377042c2ff}",
+  "WPSdk": "8.0",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
